@@ -10,7 +10,7 @@ The dataset contains 3 related data sources: ratings, users and movies in .dat f
 - Explore each data sources individually.
 - Combine movies and users to the ratings data inorder to get interesting insights.
 
-### following libraries
+###  Libraries
 - Pandas: for data manipulation and analysis. Dataframe feature provided by this library is really flexible in handling the data.
 - Numpy: provide flexibility in dealing with multi-dimensional arrays and complex mathematical functions.
 - Matplotlib: Commonly used library for data visualization
