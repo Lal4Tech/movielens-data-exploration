@@ -20,9 +20,9 @@ Run command: <code>pip install -r requirements.txt</code> to install required li
 ### To run the code
 Common requirements: Python 3+(version used for the project: 3.5.3), Jupyter notebook
 
-Data directory: /src/main/data(data needs to be downloaded from https://grouplens.org/datasets/movielens/1m/)
+Data directory: /src/main/data(data needs to be downloaded from https://grouplens.org/datasets/movielens/1m/)<br>
 Extract the zip and copy ratings.dat, users.dat and movies.dat to this directory.
 
 code directory: /src/main/code
-code file: exploratory_analysis.ipynb(jupyter notebook)
+code file: exploratory_analysis.ipynb(jupyter notebook)<br>
 Run each cell of the jupyter in the order.
